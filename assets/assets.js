@@ -56,7 +56,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_2,
         date:Date.now(),
-        category:"Startup",
+        category:"StartUp",
         author:"Alex Bennett",
         author_img:profile_icon
     },
@@ -96,7 +96,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_6,
         date:Date.now(),
-        category:"Startup",
+        category:"StartUp",
         author:"Alex Bennett",
         author_img:profile_icon
     },
@@ -126,7 +126,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_9,
         date:Date.now(),
-        category:"Startup",
+        category:"StartUp",
         author:"Alex Bennett",
         author_img:profile_icon
     },
@@ -146,7 +146,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_11,
         date:Date.now(),
-        category:"Startup",
+        category:"StartUp",
         author:"Alex Bennett",
         author_img:profile_icon
     },
@@ -166,7 +166,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_13,
         date:Date.now(),
-        category:"Startup",
+        category:"StartUp",
         author:"Alex Bennett",
         author_img:profile_icon
     },
@@ -196,7 +196,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_16,
         date:Date.now(),
-        category:"Startup",
+        category:"StartUp",
         author:"Alex Bennett",
         author_img:profile_icon
     },
