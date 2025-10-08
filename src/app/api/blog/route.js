@@ -36,6 +36,6 @@ export async function POST(req) {
     }
 
     await BlogModel.create(blogData);
-    return NextResponse.json({ success: true, msg: "Blog Data" })
+    return NextResponse.json({ success: true, msg: "Blog Data added" })
 
 }
